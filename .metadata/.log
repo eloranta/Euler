@@ -7,3 +7,327 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY ccw.core 1 0 2013-02-08 13:18:00.419
 !MESSAGE Change Clojure language support : Clojure language support successfully added for project clojure.
+!SESSION 2013-02-08 13:22:34.019 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_38
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY ccw.core 2 0 2013-02-08 13:24:00.412
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:24:03.251
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 1 0 2013-02-08 13:24:26.511
+!MESSAGE Started ccw nREPL server: nrepl://localhost:61443
+
+!ENTRY ccw.core 1 0 2013-02-08 13:24:26.511
+!MESSAGE Starting REPL with program args: -i "/C:/Users/eloranta/.eclipse/org.eclipse.platform_3.6.1_920333535/plugins/ccw.core_0.11.1.STABLE001/ccw/debug/serverrepl.clj" -e "(require 'clojure.tools.nrepl.server)(do (clojure.tools.nrepl.server/start-server :ack-port 61443) nil)"  
+
+!ENTRY ccw.core 1 0 2013-02-08 13:24:26.651
+!MESSAGE Adding to project's classpath to support nREPL: [C:\Users\eloranta\.eclipse\org.eclipse.platform_3.6.1_920333535\plugins\org.clojure.tools.nrepl_0.2.0.GAMMA010.jar]
+
+!ENTRY ccw.core 4 0 2013-02-08 13:24:31.456
+!MESSAGE Could not switch ns to: null
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:46.945
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:49.082
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:50.595
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:51.921
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:53.201
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:55.369
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:57.803
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:25:59.753
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:02.140
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:03.918
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:07.771
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:12.061
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:14.292
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:15.618
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:16.788
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:19.534
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:20.329
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:21.218
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:56.272
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:57.395
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:26:57.925
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:27:06.537
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:27:07.551
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:27:09.048
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:27:09.860
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:27:53.789
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:12.603
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:15.162
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:15.817
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:29.716
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:31.120
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:45.800
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:28:47.891
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 1)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:07.857
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:09.791
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:11.601
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:32.232
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:32.840
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:30:34.026
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:31:44.679
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:31:47.144
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 4)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:33:07.874
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:33:11.805
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:33:14.426
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:42.146
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:46.108
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:46.919
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: })
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:47.808
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: })
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:52.270
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:34:59.571
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:35:07.449
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:35:18.400
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:36:02.424
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:36:44.684
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:36:55.917
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:06.257
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:07.973
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:13.647
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:16.564
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ])
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:52.975
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:56.267
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:57.140
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:38:59.933
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:01.446
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:02.023
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:04.379
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:35.283
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:54.471
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:39:57.169
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 6)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:41:43.860
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:42:03.438
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:43:51.078
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:44:45.336
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:44:48.705
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:45:59.089
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:45:59.962
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:47:17.647
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:47:49.315
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: Unmatched delimiter: ))
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:07.380
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:28.425
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:29.002
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:30.422
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:43.494
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:47.160
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:47.956
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:48:50.031
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 9)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:17.347
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:18.049
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:21.091
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:23.228
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:23.805
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:25.568
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:27.690
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:30.420
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:32.962
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:34.132
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:36.394
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:37.892
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:39.046
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
+
+!ENTRY ccw.core 2 0 2013-02-08 13:49:44.163
+!MESSAGE Failed to read file euler.clj (java.lang.RuntimeException: EOF while reading, starting at line 12)
