@@ -1,0 +1,9 @@
+!SESSION 2013-02-08 13:15:09.644 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_38
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fi_FI
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY ccw.core 1 0 2013-02-08 13:18:00.419
+!MESSAGE Change Clojure language support : Clojure language support successfully added for project clojure.
