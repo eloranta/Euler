@@ -12,7 +12,16 @@
 (assert (= problem2 4613732))
 
 (defn prime_internal? [n]
-  (take-while (fn [i] (<= (* i i) n)) (interleave (map dec (range 6 100 6)) (map inc (range 6 100 6)))))
+  (cond
+    (some
+      (fn [i] (zero? (mod n i)))
+      (take-while
+        (fn [i] (<= (* i i) n))
+        (interleave
+          (map dec (range 6 Double/POSITIVE_INFINITY 6))
+          (map inc (range 6 Double/POSITIVE_INFINITY 6)))))
+    false
+    :else true))
 
 (defn prime? [n]
   (cond
@@ -33,7 +42,25 @@
 (assert (= (prime? 5) true))
 (assert (= (prime? 6) false))
 (assert (= (prime? 7) true))
-;(assert (= (prime? 25) false))
-
+(assert (= (prime? 23) true))
+(assert (= (prime? 24) false))
+(assert (= (prime? 25) false))
+(assert (= (prime? 47) true))
+(assert (= (prime? 48) false))
+(assert (= (prime? 49) false))
+(assert (= (prime? 97) true))
+(assert (= (prime? 997) true))
  
-(prime_internal? 100)
+(def primes
+  (concat [2 3]
+          (filter
+            (fn [n] (prime_internal? n))
+            (interleave
+              (map
+                dec
+                (range 6 Double/POSITIVE_INFINITY 6))
+              (map
+                inc
+                (range 6 Double/POSITIVE_INFINITY 6))))))
+
+
