@@ -12,41 +12,49 @@ exports.isPrime = function(n){
   return true;
 }
 
-function primes(n){
-  var prime = [];
-  prime.push(0);
-  prime.push(0);
-  for (var i = 2; i < n; ++i){
-    prime.push(-1);
+exports.primes = function(maxNumber){
+  var n = prime = 2;
+  var number = [];
+  init();
+
+  while (true)
+    if (handleElement(n == prime) == -1)
+      break;
+  
+  var result = [];
+  for (var i = 0; i < maxNumber; ++i)
+    if (number[i] == 1)
+      result.push(i);
+  
+  return result;
+
+  function init(){
+    number.length = 0;
+    number.push(0);
+    number.push(0);
+    for (var i = 2; i < maxNumber; ++i)
+      number.push(-1);
+  }
+
+  function handleElement(primean){
+    if (primean)
+      number[n] = 1;
+    else
+      number[n] = 0;
+
+    n += prime;
+    if (n >= number.length)
+      n = prime = findNextPrime();
+    
+    return n;
   }
   
-  var i = step = 2;
-  
-  while (true){
-    if (i == step){
-      prime[i] = 1;
-    }
-    else{
-      prime[i] = 0;
-    }
-    i += step;
-    if (i >= n){
-      var p = -1;
-      for (var j = 0; j < n; ++j){
-        if (prime[j] == -1){
-          p = j;
-          break;
-        }
-      }
-      console.log(p);
-      if (p == -1){
-        break;
-      i = step = p;
-      }
-    }
+  function findNextPrime(){
+    for (var i = 0; i < number.length; ++i)
+      if (number[i] == -1)
+        return i;
+    return -1;
   }
-  return prime;
-  
 }
 
-console.log(primes(10));
+
