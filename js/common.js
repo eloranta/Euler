@@ -23,7 +23,7 @@ exports.primes = function(maxNumber){
   
   var result = [];
   for (var i = 0; i < maxNumber; ++i)
-    if (number[i] == 1)
+    if (number[i] != 0)
       result.push(i);
   
   return result;
@@ -37,6 +37,8 @@ exports.primes = function(maxNumber){
   }
 
   function handleElement(primean){
+    if (prime * prime >= maxNumber)
+      return -1;
     if (primean)
       number[n] = 1;
     else
